@@ -80,7 +80,7 @@ function draw() {
   platform1.display();
   platform2.display();
 
-  box.display();
+  box1.display();
   box2.display();
   box3.display();
   box4.display();
